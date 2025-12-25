@@ -1,0 +1,4 @@
+hlms HudTestImage unlit
+{
+    diffuse_map LDR_R_0.png
+}
