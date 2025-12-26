@@ -43,6 +43,11 @@ build\Engine_Ogre_Next.sln
 
 ### 5. Pour Plus d'information
 
-#### Voici le Git d'Ogre-Next : 
-[Git Ogre-Next](https://github.com/OGRECave/ogre-next)
-Vous trouverez toute la documentation que vous avez besoin
+* Le Repo Git d'Ogre-Next : 
+[Git Ogre-Next](https://github.com/OGRECave/ogre-next) 
+
+* Le manuel d'Ogre-Next en 3.0 :
+[Manuel](https://ogrecave.github.io/ogre-next/api/3.0/index.html)
+
+* Le manuel de la dernière version d'Ogre-Next :
+[Manuel](https://ogrecave.github.io/ogre-next/api/latest/manual.html)
